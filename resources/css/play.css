@@ -1,0 +1,36 @@
+
+main{
+  margin: 100px;
+}
+h3, h4, h5{
+  font-weight: normal;
+}
+
+p{
+  font-size: small;
+  line-height: 25px;
+}
+
+img{
+  display: flex;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  max-width: 800px;
+}
+@media (max-width: 750px){
+  main{
+    
+    margin: 100px 50px;
+  }
+}
+
+@media (max-width: 400px){
+  main{
+    margin: 150px 25px;
+  }
+}
+
+#livesex {
+  float: left;
+}

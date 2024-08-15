@@ -1,0 +1,13 @@
+
+main{
+  margin: 25px 50px;
+}
+
+a{
+  color: black;
+}
+@media (max-width: 1050px){
+  p{
+    margin-top: 120px;
+  }
+}
